@@ -1,5 +1,5 @@
-# 02 Requirement Analysis
+# 03 Project Design
 
-Functional and non-functional requirements.
+Architecture, UI and database design notes.
 
 Add your phase-specific screenshots, reports, test evidence, or presentation files here before submitting to GitHub.
