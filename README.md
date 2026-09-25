@@ -1,5 +1,5 @@
-# 01 Brainstorming Ideation
+# 02 Requirement Analysis
 
-Brainstorming and ideation materials for FitBuddy.
+Functional and non-functional requirements.
 
 Add your phase-specific screenshots, reports, test evidence, or presentation files here before submitting to GitHub.
