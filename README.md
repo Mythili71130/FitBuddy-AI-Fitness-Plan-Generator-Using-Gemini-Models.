@@ -1,5 +1,5 @@
-# 05 Project Development
+# 06 Project Testing
 
-Source code is in the main project folders.
+Test cases and testing notes.
 
 Add your phase-specific screenshots, reports, test evidence, or presentation files here before submitting to GitHub.
