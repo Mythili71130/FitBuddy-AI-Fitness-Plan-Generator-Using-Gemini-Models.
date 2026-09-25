@@ -1,5 +1,5 @@
-# 03 Project Design
+# 04 Project Planning
 
-Architecture, UI and database design notes.
+Milestones, activities and implementation plan.
 
 Add your phase-specific screenshots, reports, test evidence, or presentation files here before submitting to GitHub.
