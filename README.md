@@ -1,5 +1,5 @@
-# 06 Project Testing
+# 07 Project Documentation
 
-Test cases and testing notes.
+Project report and documentation notes.
 
 Add your phase-specific screenshots, reports, test evidence, or presentation files here before submitting to GitHub.
